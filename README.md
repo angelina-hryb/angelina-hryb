@@ -1,4 +1,4 @@
-## Hello everyone! My name is Angelina. Welcome to my GitHub 👋
+***Hello everyone! My name is Angelina. Welcome to my GitHub👋***
 
 <!--
 **angelina-hryb/angelina-hryb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
