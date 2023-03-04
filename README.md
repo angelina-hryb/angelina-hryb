@@ -8,6 +8,9 @@ ___
 + 🧷 [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D0%BD%D0%B0-%D0%B3%D1%80%D0%B8%D0%B1-30200664/) 
 + 🤳 [Instagram](https://instagram.com/angelina_hryb?igshid=ZDdkNTZiNTM=)
 ___
+### :hammer_and_wrench: Languages and Tools :
+  
+___
 ### ❤Social media: ###
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -22,7 +25,7 @@ ___
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ___
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angelina-hryb&theme=dark&background=000000)](htpps://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-angelina-hryb&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div id="header" align="left">
 <img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="500"/>
