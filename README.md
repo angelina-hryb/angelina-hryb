@@ -8,7 +8,7 @@ ___
 + 🧷 [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D0%BD%D0%B0-%D0%B3%D1%80%D0%B8%D0%B1-30200664/) 
 + 🤳 [Instagram](https://instagram.com/angelina_hryb?igshid=ZDdkNTZiNTM=)
 ___
-***Social media:
+***Social media:***
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -19,4 +19,5 @@ ___
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ___
