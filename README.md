@@ -9,6 +9,9 @@ ___
 + 🤳 [Instagram](https://instagram.com/angelina_hryb?igshid=ZDdkNTZiNTM=)
 ___
 ### :hammer_and_wrench: Languages and Tools :
+
+<img height="20" width="20" src="https://cdn.simpleicons.org/[#FF6C37]"/>
+
   
 ___
 ### ❤Social media: ###
