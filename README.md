@@ -9,10 +9,14 @@ ___
 + 🤳 [Instagram](https://instagram.com/angelina_hryb?igshid=ZDdkNTZiNTM=)
 ___
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+ 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
 
-<img height="20" width="20" src="https://cdn.simpleicons.org/[#FF6C37]"/>
-
-  
+</div>
 ___
 ### ❤Social media: ###
 
