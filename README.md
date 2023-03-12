@@ -24,8 +24,6 @@ ___
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ___
-### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angelina-hryb&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div id="header" align="left">
 <img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="500"/>
