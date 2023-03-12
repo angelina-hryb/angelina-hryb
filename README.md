@@ -28,8 +28,8 @@ ___
 <div id="header" align="left">
 <img src="https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif" width="500"/>
 </div>
+
+
+![](https://komarev.com/ghpvc/?username=angelina-hryb)
+
 ___
-⭐My stats:⭐  
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=jolly&show_icons=true)
-
