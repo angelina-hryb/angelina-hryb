@@ -26,6 +26,7 @@ ___
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![DevTools](https://img.shields.io/badge/devtools-4285F4?style=for-the-badge&logo=devtools&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-4285F4?style=for-the-badge&logo=Jira&logoColor=white)
 
 
 </div>
