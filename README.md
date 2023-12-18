@@ -2,7 +2,7 @@
 ___
 
 *🤗A few details about myself:*
-+ ✨I take a QA course by Vadim Ksendzov
++ ✨I completed the course on testing by Vadim Ksendzov
 + ✔ I post my homework on github
 + 🌱 I’m currently learning English
 + 🧷 [LinkedIn](https://www.linkedin.com/in/angelinahryb-qa/) 
